@@ -1,0 +1,11 @@
+Jogador: Marquinhos - Camisa: 4 - Posição: DEFESA - Situação: NORMAL
+Jogador: Casemiro - Camisa: 5 - Posição: MEIO-CAMPO - Situação: NORMAL
+Jogador: Alex Sandro - Camisa: 6 - Posição: DEFESA - Situação: NORMAL
+Jogador: Lucas PaquetÃ¡ - Camisa: 7 - Posição: MEIO-CAMPO - Situação: NORMAL
+Jogador: Fred - Camisa: 8 - Posição: MEIO-CAMPO - Situação: NORMAL
+Jogador: Richarlison - Camisa: 9 - Posição: ATACANTE - Situação: NORMAL
+Jogador: Neymar - Camisa: 10 - Posição: ATACANTE - Situação: NORMAL
+Jogador: Raphinha - Camisa: 11 - Posição: ATACANTE - Situação: NORMAL
+Jogador: Alisson - Camisa: 1 - Posição: GOLEIRO - Situação: EXPULSO
+Jogador: Danilo - Camisa: 2 - Posição: DEFESA - Situação: EXPULSO
+Jogador: Thiago Silva - Camisa: 3 - Posição: DEFESA - Situação: EXPULSO
