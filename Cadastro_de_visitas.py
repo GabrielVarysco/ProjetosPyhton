@@ -1,12 +1,3 @@
-'''
-Na opção 5 do menu apenas crie um relatório de conferência.
-    Selecione o Profissional e mostre todos os visitantes
-    e a data da visita.
-
-Obs. Em todas as listas serão armazenados as instâncias
-de suas classes.
-'''
-
 import enum
 
 lista_visita = []
